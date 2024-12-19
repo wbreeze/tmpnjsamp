@@ -23,3 +23,4 @@ Relevant links:
 [sps]: https://github.com/Unboxed-Software/solana-scavenger-hunt-app/tree/starter
 [ampnjs]: https://docs.aws.amazon.com/amplify/latest/userguide/getting-started-next.html
 [awpnjsssr]: https://docs.aws.amazon.com/amplify/latest/userguide/server-side-rendering-amplify.html
+
