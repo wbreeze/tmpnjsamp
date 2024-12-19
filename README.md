@@ -1,29 +1,25 @@
-# API routes with REST
+# Try SolanaPay with NextJS API deployed to AWS Amplify
 
-Next.js ships with [API routes](https://github.com/vercel/next.js#api-routes), which provide an easy solution to build your own `API`. This example shows how it can be used to create your [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) `API`.
+Project created by
 
-## Deploy your own
-
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/api-routes-rest)
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/next.js/tree/canary/examples/api-routes-rest&project-name=api-routes-rest&repository-name=api-routes-rest)
-
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
-
-```bash
-npx create-next-app --example api-routes-rest api-routes-rest-app
+```
+npx create-next-app@latest --example "api-routes-rest"
 ```
 
-```bash
-yarn create next-app --example api-routes-rest api-routes-rest-app
-```
+That said,
 
-```bash
-pnpm create next-app --example api-routes-rest api-routes-rest-app
-```
+- `npm run dev` Starts the development server.
+- `npm run build` Builds the app for production.
+- `npm start` Runs the built app in production mode.
 
-### Deploy to Vercel
+Relevant links:
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+- [Solana Pay lab instructions][spt]
+- [Solana Pay lab source][sps]
+- [AWS Amplify NextJS doc][ampnjs]
+- [AWS Amplify NextJS SSR doc][ampnjsssr]
+
+[spt]: https://solana.com/developers/courses/solana-pay/solana-pay#1-starter
+[sps]: https://github.com/Unboxed-Software/solana-scavenger-hunt-app/tree/starter
+[ampnjs]: https://docs.aws.amazon.com/amplify/latest/userguide/getting-started-next.html
+[awpnjsssr]: https://docs.aws.amazon.com/amplify/latest/userguide/server-side-rendering-amplify.html
