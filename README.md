@@ -22,5 +22,5 @@ Relevant links:
 [spt]: https://solana.com/developers/courses/solana-pay/solana-pay#1-starter
 [sps]: https://github.com/Unboxed-Software/solana-scavenger-hunt-app/tree/starter
 [ampnjs]: https://docs.aws.amazon.com/amplify/latest/userguide/getting-started-next.html
-[awpnjsssr]: https://docs.aws.amazon.com/amplify/latest/userguide/server-side-rendering-amplify.html
+[ampnjsssr]: https://docs.aws.amazon.com/amplify/latest/userguide/server-side-rendering-amplify.html
 
